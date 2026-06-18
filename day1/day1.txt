@@ -1,0 +1,4 @@
+print(" ") -> to print a string
+input() -> to take input
+\n -> next line
+variable naming-> cant start with number, no spaces, no special words
