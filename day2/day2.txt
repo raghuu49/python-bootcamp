@@ -1,0 +1,7 @@
+Errors:
+Name Error: var not found
+Indentation error: python is shit
+Type Error: expected on data type got another
+Value error: wanted a int you are giving float son
+round(3.786,2) -> 3.78 
+type(variable)
