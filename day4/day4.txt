@@ -1,0 +1,3 @@
+random.randint(a,b) -> a,b inclusive
+random.uniform(a,b) -> a,b inclusive
+random.random()  -> [0,1)
